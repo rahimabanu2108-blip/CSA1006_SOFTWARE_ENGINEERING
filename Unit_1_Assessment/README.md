@@ -1,6 +1,8 @@
 
 # Telemedicine Scrum Project
 
+🔗 **Trello Board:** https://trello.com/invite/b/6a55a7650739056e6a3ff894/ATTIff2d13436487e991159d52b86d5dddfcD64D4781/telemedicine-mobile-app
+
 ## Overview
 
 This repository contains a Scrum-based project management demonstration for a **Telemedicine Mobile Application**. The project was completed as part of an Agile Project Management assessment to understand how Scrum is used to manage software development and handle changing requirements.
